@@ -6,7 +6,7 @@ import cohere
 import pyttsx3
 
 # --------- CONFIG ---------
-COHERE_API_KEY = "AtrNMrDlJCZOK0tlh7J5oJXZJSvyPm8CwSuc5CO3"  # 🔑 استبدل هذا بمفتاحك من Cohere
+COHERE_API_KEY = "YOUR_API_KEY"  # 🔑 استبدل هذا بمفتاحك من Cohere
 DURATION = 5 # عدد ثواني تسجيل الصوت
 FILENAME = "input.wav"
 # --------------------------
